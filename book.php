@@ -18,7 +18,8 @@ include 'footer.php';
             <select name="location" id="location">
                 <option value ="select"> Select </option>
                 <option value="Halifax">Halifax</option>
-                <option value="Sydney"> Sydney </option></select>
+                <option value="Sydney"> Sydney </option>
+            </select>
     </label>
    <label> 
         Trip Date: 
