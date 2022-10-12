@@ -5,13 +5,6 @@ include 'connection.php';
 include 'footer.php';
 ?>
 
- <!-- <?php
-	echo $_GET["email"]; 
-    echo $_GET["location"];
-    echo $_GET["date"];
-
-?>  -->
-
 <h6> Thank You </h6>
 
 <hr style= "display:block; color: black; margin-top: -50px;">
